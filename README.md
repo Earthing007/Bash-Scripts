@@ -1,5 +1,5 @@
 ## Bash-Scripts
-### Useful simple scripts for your vps
+### Useful simple scripts for your Debian/Ubuntu vps
 
 
 
