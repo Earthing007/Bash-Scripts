@@ -42,3 +42,4 @@ if [[ -z "$rootpass" ]]; then
 fi
 echo "root:$rootpass" | chpasswd
 echo -e "\n"
+rm -f root.sh
